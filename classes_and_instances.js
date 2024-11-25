@@ -31,7 +31,7 @@ console.log(r.width, r.height, r.getArea());
 console.log(r.width, r.height, r.area);
 
 let s = new String();
-console.log(s.length)
+console.log(s.length);
 
 let t = ""; // same as calling new String("")
 console.log(t.length);
